@@ -28,6 +28,7 @@ Uso de aside: Como separar conteúdos periféricos (como a lista de versões do 
 
 Experiência do Usuário (UX): Garantir que links externos abram em novas abas (target="_blank") e que o conteúdo seja legível em qualquer dispositivo.
 
+[Visualizar o projeto](https://julianadiotto.github.io/site-android/)
 
 
 
